@@ -1,1 +1,6 @@
 visualization zoo
+
+deluge
+stream graph
+horizon graph
+
