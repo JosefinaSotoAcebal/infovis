@@ -3,4 +3,7 @@ visualization zoo
 deluge
 stream graph
 horizon graph
-
+SPLOM (scatter plot matrix
+Protovis
+dendrogram
+circle-packing layout
